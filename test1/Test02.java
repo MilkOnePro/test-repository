@@ -7,6 +7,7 @@ public class Test02 {
                         5555
 
                         4444
+                                666666666666666
 
         System.out.println(2);
     }
