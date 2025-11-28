@@ -5,6 +5,8 @@ public class Test02 {
                 1111111111
                 3333333333
 
+                        4444
+
         System.out.println(2);
     }
 }
