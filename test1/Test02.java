@@ -1,13 +1,6 @@
 public class Test02 {
 
     public static void main(String[] args) {
-        222222222222222222222
-                1111111111
-                3333333333
-                        5555
-
-                        4444
-                                666666666666666
 
         System.out.println(2);
     }
